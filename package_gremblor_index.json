@@ -1,0 +1,55 @@
+{
+  "packages": [
+    {
+      "name": "gremblor",
+      "maintainer": "Aaron Kimball",
+      "websiteURL": "https://github.com/kimballa/arduino-pkg-index",
+      "email": "arduino@gremblor.com",
+      "platforms": [
+        {
+          "name": "Gremblor megaAVR Boards",
+          "architecture": "megaavr",
+          "version": "0.1.0",
+          "category": "Contributed",
+          "url": "https://github.com/kimballa/megaavr-boarddefs/archive/refs/tags/megaavr-0.1.0.zip",
+          "archiveFilename": "megaavr-0.1.0.zip",
+          "checksum": "SHA-256:xyzabc",
+          "size": "12345",
+          "boards": [
+            {
+              "name": "Gremblor megaAVR 809 Breakout Board"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino17"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
