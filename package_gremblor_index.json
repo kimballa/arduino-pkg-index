@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://github.com/kimballa/megaavr-boarddefs/archive/refs/tags/megaavr-0.1.0.zip",
           "archiveFilename": "megaavr-0.1.0.zip",
-          "checksum": "SHA-256:xyzabc",
-          "size": "12345",
+          "checksum": "SHA-256:4bda16a6434be99165e9652bfaa0c1995821c20ffb363dc54e6b8adcf0ec3c6b",
+          "size": "923115",
           "boards": [
             {
               "name": "Gremblor megaAVR 809 Breakout Board"
