@@ -14,3 +14,7 @@ https://raw.githubusercontent.com/kimballa/arduino-pkg-index/main/package_grembl
 
 You will need to install the official Arduino MegaAVR board definitions first to install
 the appropriate compiler toolchain.
+
+This includes resources to point the Arduino IDE at the 
+[megaavr board variant definition](https://github.com/kimballa/megaavr-boarddefs)
+for my [ATMega809 breakout board](https://github.com/kimballa/ATMega809-breakout).
